@@ -1,0 +1,3 @@
+CRL (crontab logger) is a very simple script intented
+for easy logging of a programs activity. I made it for
+use with rsync.
