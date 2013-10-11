@@ -1,3 +1,2 @@
-CRL (crontab logger) is a very simple script intented
-for easy logging of a programs activity. I made it for
-use with rsync.
+CRL (crontab logger) is a very simple script intented for logging a programs activity while running on crontab. 
+The script adds start&stop times to the log with the programs output.
